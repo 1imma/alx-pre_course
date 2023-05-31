@@ -1,0 +1,9 @@
+echo
+git checkout
+git branch
+git fetch
+git merge
+touch
+git add .
+git commit -m
+gti push
